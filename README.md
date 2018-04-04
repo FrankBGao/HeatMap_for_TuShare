@@ -9,7 +9,7 @@ Usage of this project is simple, you just download those files and run stock.py.
 
 ![image](https://raw.githubusercontent.com/FrankBGao/HeatMap_for_Tushare/master/pic/2017-07-31_12_47_18.780000.png)
 
-If you have any problem, you could send email, frankberniegao@outlook.com
+
 
 使用TuShare作为数据源，制作了中国股市的股价的实时热力图。
 
@@ -21,4 +21,3 @@ TuShare具有很多很丰富的股市数据，这个工作致力于将这些数�
 
 ![image](https://raw.githubusercontent.com/FrankBGao/HeatMap_for_Tushare/master/pic/2017-07-31_12_47_18.780000.png)
 
-如果你有任何问题，你可以给我发邮件，frankberniegao@outlook.com
