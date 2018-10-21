@@ -1,3 +1,4 @@
+Please see the project of HeatMap_Echart_for_TuShare, it is better solution.
 # HeatMap_for_TuShare
 Create a heatmap for Real time China stocks price by TuShare's data
 
@@ -11,6 +12,7 @@ Usage of this project is simple, you just download those files and run stock.py.
 
 
 
+请参阅HeatMap_Echart_for_TuShare的项目，更好的解决方案。
 使用TuShare作为数据源，制作了中国股市的股价的实时热力图。
 
 TuShare具有很多很丰富的股市数据，这个工作致力于将这些数据可视化，进而挖掘数据价值。目前我们基于TuShare的实时股价接口，制作了股价热力图，直观表现股价的每日变化。同时，将同一行业板块的股票放置在同一行，可以很直观的发现市场热点板块，追踪热点。
